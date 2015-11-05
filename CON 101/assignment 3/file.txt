@@ -1,0 +1,4 @@
+talk.politics.misc	Chinese Beijing Chinese
+talk.politics.misc	Chinese Chinese Shanghai
+talk.politics.misc	Chinese Macao
+talk.religion.misc	Tokyo Japan Chinese
